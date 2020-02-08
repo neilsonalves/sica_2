@@ -77,7 +77,7 @@ $result = mysqli_query($con,$sql);
     </ul>
 
   </nav>
-
+<br>
   <div id="wrapper">
 
     <!-- Sidebar(menu esquedo) -->
